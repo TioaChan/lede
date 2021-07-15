@@ -5,3 +5,9 @@
 	path = package/lean/luci-theme-argon
 	url = https://github.com/jerrykuku/luci-theme-argon.git
 	branch = 18.06
+[submodule "package/luci-app-bandwidthd"]
+	path = package/luci-app-bandwidthd
+	url = https://github.com/AlexZhuo/luci-app-bandwidthd
+[submodule "package/openwrt-packages"]
+	path = package/openwrt-packages
+	url = https://github.com/kenzok8/openwrt-packages
