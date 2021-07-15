@@ -14,3 +14,6 @@
 [submodule "package/small"]
 	path = package/small
 	url = https://github.com/kenzok8/small
+[submodule "package/luci-app-dockerman"]
+	path = package/luci-app-dockerman
+	url = https://github.com/lisaac/luci-app-dockerman
