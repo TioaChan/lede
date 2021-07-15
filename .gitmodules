@@ -11,3 +11,6 @@
 [submodule "package/openwrt-packages"]
 	path = package/openwrt-packages
 	url = https://github.com/kenzok8/openwrt-packages
+[submodule "package/small"]
+	path = package/small
+	url = https://github.com/kenzok8/small
