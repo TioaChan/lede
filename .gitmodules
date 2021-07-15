@@ -1,0 +1,7 @@
+[submodule "package/luci-app-openclash"]
+	path = package/luci-app-openclash
+	url = https://github.com/vernesong/OpenClash
+[submodule "package/lean/luci-theme-argon"]
+	path = package/lean/luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon.git
+	branch = 18.06
