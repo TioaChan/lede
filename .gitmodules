@@ -3,7 +3,7 @@
 	url = https://github.com/vernesong/OpenClash
 [submodule "package/lean/luci-theme-argon"]
 	path = package/lean/luci-theme-argon
-	url = https://github.com/jerrykuku/luci-theme-argon.git
+	url = https://github.com/TioaChan/luci-theme-argon.git
 	branch = 18.06
 [submodule "package/luci-app-bandwidthd"]
 	path = package/luci-app-bandwidthd
