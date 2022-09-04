@@ -77,9 +77,9 @@ jobs:
       - name: Update feeds & remove conflict package
         run: |
           ./scripts/feeds update -a && ./scripts/feeds install -a
-          rm -rf feeds/luci/themes/luci-theme-argon
+#          rm -rf feeds/luci/themes/luci-theme-argon
 #          sed -i 's/luci-lib-ipkg/luci-base/' ./feeds/istore/luci/luci-app-store/Makefile
-          ./scripts/feeds update -a && ./scripts/feeds install -a
+#          ./scripts/feeds update -a && ./scripts/feeds install -a
 
       - name: Generate configuration file
         run: |
