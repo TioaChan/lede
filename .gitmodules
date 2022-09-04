@@ -1,0 +1,3 @@
+[submodule "package/submodule/luci-app-adguardhome"]
+	path = package/submodule/luci-app-adguardhome
+	url = https://github.com/TioaChan/luci-app-adguardhome.git

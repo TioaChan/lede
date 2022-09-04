@@ -8,3 +8,9 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
+src-git openclash https://github.com/vernesong/OpenClash.git
+#src-git nezha https://github.com/Erope/openwrt_nezha
+src-git subconverter https://github.com/tindy2013/openwrt-subconverter
+#src-git istore https://github.com/linkease/istore.git
+#src-svn homebox https://github.com/xiangfeidexiaohuo/openwrt-packages/trunk/op-homebox
+#src-svn netdata_chn https://github.com/xiangfeidexiaohuo/openwrt-packages/trunk/luci-app-netdata
